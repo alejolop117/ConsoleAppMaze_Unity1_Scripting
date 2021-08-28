@@ -1,0 +1,7 @@
+D:\UPB\Ingeniería Ent Dig\00_VI\Scripting\Ev_Unidad_1\ConsoleAppMaze\bin\Debug\ConsoleAppMaze.exe.config
+D:\UPB\Ingeniería Ent Dig\00_VI\Scripting\Ev_Unidad_1\ConsoleAppMaze\bin\Debug\ConsoleAppMaze.exe
+D:\UPB\Ingeniería Ent Dig\00_VI\Scripting\Ev_Unidad_1\ConsoleAppMaze\bin\Debug\ConsoleAppMaze.pdb
+D:\UPB\Ingeniería Ent Dig\00_VI\Scripting\Ev_Unidad_1\ConsoleAppMaze\obj\Debug\ConsoleAppMaze.csproj.AssemblyReference.cache
+D:\UPB\Ingeniería Ent Dig\00_VI\Scripting\Ev_Unidad_1\ConsoleAppMaze\obj\Debug\ConsoleAppMaze.csproj.CoreCompileInputs.cache
+D:\UPB\Ingeniería Ent Dig\00_VI\Scripting\Ev_Unidad_1\ConsoleAppMaze\obj\Debug\ConsoleAppMaze.exe
+D:\UPB\Ingeniería Ent Dig\00_VI\Scripting\Ev_Unidad_1\ConsoleAppMaze\obj\Debug\ConsoleAppMaze.pdb
